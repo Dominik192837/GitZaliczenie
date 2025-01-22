@@ -1,3 +1,2 @@
 Imie : Dominik
-Nr Albumu : 21446
-Grupa : C3
+Nr Albumu : 159811
